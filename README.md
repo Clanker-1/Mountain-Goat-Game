@@ -1,2 +1,2 @@
 # Mountain-Goat-Game
-A dinosaur game clone 
+A dinosaur game clone with a different theme
