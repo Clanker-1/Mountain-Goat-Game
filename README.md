@@ -10,10 +10,10 @@ A dinosaur game clone with a different theme with a mountain goat as the dinosau
 ![ClassDiagram.png](https://github.com/Clanker-1/Mountain-Goat-Game/blob/main/images/Mockup.png)
 
 ## Purpose
-A fun game to play when boared or when you have nothing else to do.
+A fun game to play when bored or when you have nothing else to do.
 
 ## Target User
-People who are boared. 
+People who are bored. 
 
 ## Program Structure
 List the main classes or components you expect to create.
